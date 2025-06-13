@@ -1,0 +1,19 @@
+name: patch
+channels:
+  - conda-forge
+dependencies:
+  - python=3.9
+  - numpy
+  - pillow=9
+  - imageio
+  - moviepy
+  - openai
+  - pydub
+  - selenium
+  - webdriver_manager
+  - youtube_transcript_api
+  - google-generativeai
+  - grpc-cpp
+  - grpcio-tools
+  - html2image
+  - jinja2
